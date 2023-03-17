@@ -15,17 +15,21 @@ body {
 
 .rectangle {
   background-color: #1f1f1f;
-  height: 100px;
+  height: 74px;
   width: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
+  font-size: 50px;
 }
 
 .icon-bar {
-  width: 200px; /* Set a specific width */
+  width: 400px; /* Set a specific width */
   background-color: #555; /* Dark-grey background */
-  
+  position: absolute;
+  top: 0;
+  height: 100vh;
+
 }
 
 
