@@ -53,3 +53,10 @@ body {
 }
 
 
+.rectangle {
+  height: 50px;
+  width: 100px;
+  background-color: #555;
+  display: flex;
+  align-items: center;
+  justify-content: center;
