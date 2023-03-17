@@ -27,29 +27,29 @@ body {
     height: 50%;
 }
 
-/* Style the search box */
-#mySearch {
-  width: 100%;
-  font-size: 18px;
-  padding: 11px;
-  border: 1px solid #ddd;
+.icon-bar {
+  width: 200px; /* Set a specific width */
+  background-color: #555; /* Dark-grey background */
 }
 
-/* Style the navigation menu */
-#myMenu {
-  list-style-type: none;
-  padding: 0;
-  margin: 0;
+
+.icon-bar a {
+  display: block; /* Make the links appear below each other instead of side-by-side */
+  text-align: center; /* Center-align text */
+  padding: 16px; /* Add some padding */
+  transition: all 0.3s ease; /* Add transition for hover effects */
+  color: white; /* White text color */
+  font-size: 36px; /* Increased font-size */
 }
 
-/* Style the navigation links */
-#myMenu li a {
-  padding: 12px;
-  text-decoration: none;
-  color: black;
-  display: block
+
+.icon-bar a:hover {
+  background-color: #000; /* Add a hover color */
 }
 
-#myMenu li a:hover {
-  background-color: #eee;
+
+.active {
+  background-color: #04AA6D; /* Add an active/current color */
 }
+
+
