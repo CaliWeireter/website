@@ -52,11 +52,3 @@ body {
   background-color: #04AA6D; /* Add an active/current color */
 }
 
-
-.rectangle {
-  height: 50px;
-  width: 100px;
-  background-color: #555;
-  display: flex;
-  align-items: center;
-  justify-content: center;
