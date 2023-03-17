@@ -13,17 +13,6 @@ body {
     color: white;
 }
 
-.content {
-    font-size: 40px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-table, th, td {
-  border: 1px solid;
-}
-
-table {
-  width: 100%;
+rectangle {
+ width: 100%;
 }
