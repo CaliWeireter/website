@@ -30,7 +30,7 @@ body {
 .circle {
     height: 200px;
     width: 200px;
-    background-color: #ff7979;
+    background-color: #E683A9FF;
     border-radius: 50%;
     transition: transform 1s linear;
 }
