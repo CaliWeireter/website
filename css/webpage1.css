@@ -57,5 +57,8 @@ body {
 
 
 .picture {
-
+  display: block;
+  margin-left: 400px;
+  margin-right: auto;
+  width: 70%;
 }
