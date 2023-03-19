@@ -8,6 +8,7 @@ body {
     justify-content: center;
     margin: 0;
     overflow: hidden;
+    background-color: #F6EA7BFF;
 }
 
 .container {
@@ -22,7 +23,7 @@ body {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    color: white;
+    color: #FFBA52FF;
     cursor: pointer;
     flex: 1px;
     position: relative;
