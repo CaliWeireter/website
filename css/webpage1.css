@@ -1,12 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Sono:wght@500&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Sono:wght@500&display=swap');
 
-:root {
-    --purple: #CCCCFF;
-    --blue: #C4E3FC;
-}
-
-
 body {
     background-color: #F6EA7BFF;
     height: 100vh;
