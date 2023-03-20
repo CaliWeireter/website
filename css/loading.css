@@ -21,9 +21,7 @@ body {
     position: absolute;
 }
 
-.return {
-    align-items: right;
-}
+
 .loading-text {
     font-size: 50px;
     color: white;
