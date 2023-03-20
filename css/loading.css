@@ -24,7 +24,7 @@ body {
 .return {
     position: fixed;
     top: 1px;
-    right: 20000px;
+    right: 1000px;
 }
 .loading-text {
     font-size: 50px;
