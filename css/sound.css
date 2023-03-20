@@ -1,6 +1,6 @@
 
 body {
-    background-color: rgb(161, 100, 223);
+    background-color: #F6EA7BFF;
     display: flex;
     height: 100vh;
     align-items: center;
@@ -12,7 +12,7 @@ body {
 
 .btn {
     background-color: rebeccapurple;
-    color: white;
+    color: #FFBA52FF;
     border: 0;
     border-radius: 5px;
     margin: 1rem;
