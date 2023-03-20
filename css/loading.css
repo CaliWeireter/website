@@ -23,8 +23,8 @@ body {
 
 .return {
     position: fixed;
-    top: -1px;
-    left: -1px;
+    top: 1px;
+    right: 20000px;
 }
 .loading-text {
     font-size: 50px;
