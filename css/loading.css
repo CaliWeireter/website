@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
 
 body {
@@ -5,22 +6,27 @@ body {
     height: 100vh;
     align-items: center;
     justify-content: center;
-    margin: 0;
     overflow: hidden;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
 }
 
 .bg {
+    background: url('https://cdn.quotesgram.com/img/58/94/1603503450-Funny-Horse-14.jpg')
+    no-repeat center center/cover;
     width: 100vw;
     height: 100vh;
-    background-image: url('https://cdn.quotesgram.com/img/58/94/1603503450-Funny-Horse-14.jpg');
-    background-position: center;
-    background-repeat: none;
-    background-size: cover;
-    filter: blur(30px);
-    position: absolute;
+    filter: blur(1px);
     z-index: -1;
+    position: absolute;
 }
 
+.return {
+    position: fixed;
+    top: -1px;
+    left: -1px;
+}
 .loading-text {
     font-size: 50px;
+    color: white;
 }
