@@ -3,11 +3,7 @@ const next = document.getElementById('next')
 const progress = document.getElementById('progress')
 const circles = document.querySelectorAll('.circle')
 
-
-
-
 let currentActive = 1
-
 
 next.addEventListener('click', () => {
     currentActive++
@@ -17,7 +13,6 @@ next.addEventListener('click', () => {
     update()
 })
 
-
 prev.addEventListener('click', () => {
     currentActive--
      if (currentActive < 1) {
@@ -26,11 +21,9 @@ prev.addEventListener('click', () => {
     update()
 })
 
-
 function update(){
     console.log(currentActive)
     progress.style.width = (currentActive-1)/3*100 + '%'
-
 
     if (currentActive == 1) {
         prev.disabled = true
@@ -42,7 +35,6 @@ function update(){
         prev.disabled = false
         next.disabled = false
     }
-
 
     circles.forEach((circle, index) => {
         if (index < currentActive) {
