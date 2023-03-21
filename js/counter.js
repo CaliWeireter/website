@@ -12,7 +12,7 @@ counters.forEach(counter => {
             counter.innerText = `${Math.ceil(c + increment)}`
             setTimeout(updateCounter, 1)
         } else {
-            counter.innertext = target
+            counter.innerText = target
         }
     }
 
