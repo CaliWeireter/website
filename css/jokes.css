@@ -6,11 +6,11 @@ body {
     justify-content: center;
     margin: 0;
     overflow: hidden;
-    background-color: #686DE0;
+    background-color: #F6EA7BFF;
 }
 
 .container {
-    background-color: #fff;
+    background-color: #FFBA52FF;
     border-radius: 10px;
     padding: 50px 20px;
     text-align: center;
@@ -32,7 +32,7 @@ h3 {
 }
 
 .btn {
-    background-color: #9f68e0;
+    background-color: #E683A9FF;
     color: #fff;
     border: 0;
     border-radius: 10px;
