@@ -18,14 +18,14 @@ body {
     bottom: 20px;
     padding: 10px 20px;
     font-size: 18px;
-    background: rgba(230,131,159,.3);
+    background: rgba(255,186,82,.3);
 }
 
 input {
     width: 50px;
     padding: 5px;
     font-size: 18px;
-    background-color: #E683A9FF;
+    background-color: #F6EA7BFF;
     border: none;
     text-align: center;
 }
