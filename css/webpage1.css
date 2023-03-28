@@ -4,10 +4,12 @@
 body {
     background-color: white;
     height: 100vh;
+    weidth: 100vw;
     margin: 0;
     overflow: hidden;
     color: white;
     overflow: scroll;
+    overflow-x: hidden;
 }
 
 .rectangle {
