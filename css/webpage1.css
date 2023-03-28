@@ -61,3 +61,21 @@ body {
   width: 30%;
   height: 35%;
 }
+
+.picture2 {
+  display: block;
+  margin-left: 450px;
+  margin-right: auto;
+  margin-top: 400px;
+  width: 30%;
+  height: 35%;
+}
+
+.picture3 {
+  display: block;
+  margin-left: 900px;
+  margin-right: auto;
+  margin-top: 10px;
+  width: 30%;
+  height: 35%;
+}
