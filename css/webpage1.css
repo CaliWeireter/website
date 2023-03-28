@@ -56,7 +56,6 @@ body {
 .picture {
   display: block;
   margin-left: 450px;
-  margin-right: auto;
   margin-top: 50px;
   width: 30%;
   height: 35%;
@@ -65,17 +64,39 @@ body {
 .picture2 {
   display: block;
   margin-left: 450px;
-  margin-right: auto;
-  margin-top: 400px;
+  margin-top: 75px;
   width: 30%;
   height: 35%;
 }
 
 .picture3 {
   display: block;
-  margin-left: 900px;
-  margin-right: auto;
-  margin-top: 10px;
+  margin-left: 450px;
+  margin-top: 50px;
+  width: 30%;
+  height: 35%;
+}
+
+.picture4 {
+  display: block;
+  margin-left: 500px;
+  margin-top: 50px;
+  width: 30%;
+  height: 35%;
+}
+
+.picture5 {
+  display: block;
+  margin-left: 500px;
+  margin-top: 75px;
+  width: 30%;
+  height: 35%;
+}
+
+.picture6 {
+  display: block;
+  margin-left: 500px;
+  margin-top: 50px;
   width: 30%;
   height: 35%;
 }
