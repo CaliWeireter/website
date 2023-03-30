@@ -57,6 +57,7 @@ body {
   display: block;
   margin-left: 450px;
   margin-top: 50px;
+
   width: 30%;
   height: 35%;
 }
@@ -79,7 +80,7 @@ body {
 
 .picture4 {
   display: block;
-  margin-left: 500px;
+  margin-left: 1000px;
   margin-top: 50px;
   width: 30%;
   height: 35%;
@@ -87,7 +88,7 @@ body {
 
 .picture5 {
   display: block;
-  margin-left: 500px;
+  margin-left: 1000px;
   margin-top: 75px;
   width: 30%;
   height: 35%;
@@ -95,7 +96,7 @@ body {
 
 .picture6 {
   display: block;
-  margin-left: 500px;
+  margin-left: 1000px;
   margin-top: 50px;
   width: 30%;
   height: 35%;
