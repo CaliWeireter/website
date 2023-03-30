@@ -55,49 +55,17 @@ body {
 
 .picture {
   display: block;
-  margin-left: 450px;
+  margin-left: 550px;
   margin-top: 50px;
 
-  width: 30%;
-  height: 35%;
+  width: 50%;
+  height: 55%;
 }
 
 .picture2 {
   display: block;
-  margin-left: 450px;
+  margin-left: 550px;
   margin-top: 75px;
-  width: 30%;
-  height: 35%;
-}
-
-.picture3 {
-  display: block;
-  margin-left: 450px;
-  margin-top: 50px;
-  width: 30%;
-  height: 35%;
-}
-
-.picture4 {
-  display: block;
-  margin-left: 1000px;
-  margin-top: 50px;
-  width: 30%;
-  height: 35%;
-}
-
-.picture5 {
-  display: block;
-  margin-left: 1000px;
-  margin-top: 75px;
-  width: 30%;
-  height: 35%;
-}
-
-.picture6 {
-  display: block;
-  margin-left: 1000px;
-  margin-top: 50px;
-  width: 30%;
-  height: 35%;
+  width: 50%;
+  height: 55%;
 }
